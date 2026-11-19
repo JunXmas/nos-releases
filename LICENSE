@@ -1,0 +1,27 @@
+Nostalgia and Nos
+Copyright (c) 2026 JunXmas <nostalgialauncher@gmail.com>. All rights reserved.
+
+You may download the Nostalgia launcher and Nos Turbo from this repository or nostalgiamc.org and
+use them on your own computers, free of charge.
+
+You may not, without written permission from JunXmas:
+  - redistribute, re-upload, sell or rent the downloads, in whole or in part;
+  - modify, decompile or reverse engineer them, except where the law allows it regardless of this
+    licence;
+  - remove or change these notices.
+
+The software is provided "as is", without warranty of any kind. JunXmas is not liable for any
+claim, damages or other liability arising from its use.
+
+Third-party parts keep their own licences, which ship inside each download:
+  - Nos Turbo is built on Horizon, Copyright (c) 2026 Ludovic Marie and the Horizon contributors,
+    MIT License (LICENSE and THIRD_PARTY_NOTICES.md inside the Nos Turbo folder).
+  - The launcher uses Qt for Python (PySide6), LGPL-3.0, as separate replaceable libraries.
+
+Not affiliated with Mojang AB or Microsoft. Minecraft is a trademark of Mojang AB.
+
+---
+
+Bản quyền (c) 2026 JunXmas. Giữ mọi quyền. Được tải và dùng miễn phí trên máy của bạn. Không được
+phát lại, đăng lại, bán, sửa hay dịch ngược khi chưa có văn bản cho phép của JunXmas. Các phần của
+bên thứ ba (Horizon: MIT; PySide6: LGPL-3.0) giữ giấy phép riêng, đi kèm trong bản tải.
