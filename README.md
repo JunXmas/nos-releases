@@ -80,8 +80,8 @@ skins are copied over the first time 2.0 opens, and the old folder is left untou
 
 ## Free, and Nos+
 
-The launcher, Nos Turbo, the hub, the skies and the lyrics are free. **Nos+** (79,000₫ a year or
-199,000₫ once) adds a badge by your name, a colour-shifting cape and Nos themes. Wings, capes,
+The launcher, Nos Turbo, the hub, the skies and the lyrics are free. **Nos+** (39,000₫ a month or
+179,000₫ for six months) adds a badge by your name, a colour-shifting cape and Nos themes. Wings, capes,
 hats and kill effects are also sold one by one in the [store](https://nostalgiamc.org/store).
 Payment is a bank transfer through payOS.
 
@@ -136,8 +136,8 @@ macOS.
 **Đang dùng Nostalgia Launcher 1.2?** Launcher tự cập nhật lên 2.0. Lần đầu mở, bản 2.0 chép bản
 chơi, tài khoản và skin sang; thư mục cũ giữ nguyên.
 
-**Miễn phí và Nos+:** launcher, Nos Turbo, hub, bầu trời, lời bài hát đều miễn phí. Nos+ (79.000đ
-một năm hoặc 199.000đ trọn đời) thêm huy hiệu cạnh tên, áo choàng đổi màu và theme Nos. Cánh, áo
+**Miễn phí và Nos+:** launcher, Nos Turbo, hub, bầu trời, lời bài hát đều miễn phí. Nos+ (39.000đ
+một tháng hoặc 179.000đ sáu tháng) thêm huy hiệu cạnh tên, áo choàng đổi màu và theme Nos. Cánh, áo
 choàng, mũ và kill effect bán lẻ ở [cửa hàng](https://nostalgiamc.org/store-vi). Thanh toán chuyển
 khoản qua payOS.
 
